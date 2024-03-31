@@ -38,6 +38,16 @@ Here are some ideas to get you started:
 <br>
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zestina)](https://solved.ac/zestina)
 
+#### 🔎   Further Info (Resume & Portfolio)
+<a href="https://drive.google.com/drive/folders/1VoH377lySTNS5mSxhE--racmoqJEu9os?usp=drive_link">
+  <img src="https://img.shields.io/badge/Google%20Drive-008000?style=flat-square&logo=GoogleDrive&logoColor=white"/>
+</a>
+
+#### 📫   How To Reach
+<a href="mailto:zestina.oh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
 ---
 <div align="left">
 
@@ -78,9 +88,3 @@ Here are some ideas to get you started:
 • **```Etc```** : CI/CD
 <br>
 
----
-
-### 📫   How to reach me
-<a href="mailto:zestina.oh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>

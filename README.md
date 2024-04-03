@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/zestina)](https://leetcode.com/zestina)
-<br>
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zestina)](https://solved.ac/zestina)
+<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/zestina?theme=dark&font=Recursive&ext=heatmap)
 
 #### 🔎   Further Info (Resume & Portfolio)
 <a href="https://drive.google.com/drive/folders/1VoH377lySTNS5mSxhE--racmoqJEu9os?usp=drive_link">

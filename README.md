@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/MySQL-FF9500?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-9B111E?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-008000?style=flat-square&logo=MongoDB&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
@@ -65,15 +69,15 @@ Here are some ideas to get you started:
 <br>
 • **```Framework```** : Flask, NestJS
 <br>
-• **```Database```** : PostgreSQL, MySQL
+• **```Database```** : PostgreSQL, MySQL, Redis, MongoDB
 <br>
-• **```Server```** : Nginx, Apache Tomcat
+• **```Server```** : Nginx, Apache Tomcat, uWSGI, Gunicorn
 <br>
 • **```Deployment```** : Docker, Docker-compose
 <br>
 • **```Tools```** : Git & Github, Visual Studio Code
 <br>
-• **```Etc```** : REST API, Bash & Shell, TypeORM, Socket, JWT
+• **```Etc```** : REST API, Bash & Shell, Makefile, TypeORM, Socket, JWT
 <br>
 
 ---
@@ -81,10 +85,10 @@ Here are some ideas to get you started:
 ### 🌱   I'm Working On
 • **```Framework```** : Django
 <br>
-• **```Database```** : MongoDB
+• **```Database```** : Index
 <br>
 • **```Deployment```** : Kubernetes
 <br>
-• **```Etc```** : CI/CD
+• **```Etc```** : CI/CD, TDD, MSA
 <br>
 

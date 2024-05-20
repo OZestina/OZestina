@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 <br>
 • **```Deployment```** : Docker, Docker-compose
 <br>
-• **```Tools```** : Git & Github, Visual Studio Code
+• **```Tools```** : Git & Github, Visual Studio Code, Swagger, TypeORM
 <br>
-• **```Etc```** : REST API, Bash & Shell, Makefile, TypeORM, Socket, JWT
+• **```Etc```** : TDD, REST API, Bash & Shell, Makefile, Socket, JWT, CSRF token
 <br>
 
 ---
@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 <br>
 • **```Deployment```** : Kubernetes
 <br>
-• **```Etc```** : CI/CD, TDD, MSA
+• **```Etc```** : CI/CD, MSA
 <br>
 

@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ### 🎓   I'm Currently Learning At
  **```42Seoul```**
 <br>
- - Advanced Course Member (2023.10.29 ~)
+ - Advanced Course Member (2023.10.25 ~)
  - Common Core Learner (2022.07.04 ~ 2023.10.25)
 
 

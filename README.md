@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <br>
 • **```Server```** : Nginx, Apache Tomcat, uWSGI, Gunicorn
 <br>
-• **```Deployment```** : Docker, Docker-compose
+• **```DevOps```** : Docker, Docker-compose
 <br>
 • **```Tools```** : Git & Github, Visual Studio Code, Swagger, TypeORM
 <br>
@@ -83,12 +83,19 @@ Here are some ideas to get you started:
 ---
 
 ### 🌱   I'm Working On
-• **```Framework```** : Django
+• **```Framework```** : Django, Fast API
 <br>
-• **```Database```** : Index
+• **```Database```** : Cassandra, Hadoop
 <br>
-• **```Deployment```** : Kubernetes
+• **```DevOps```** : Kubernetes, AWS (EC2, S3, RDS), GCP
 <br>
-• **```Etc```** : CI/CD, MSA
+• **```Tools```** : SQLAlchemy
+<br>
+• **```Etc```** : CI/CD, MSA, GraphQL
 <br>
 
+---
+
+### 🚀   I'm Also Interested In
+• ML, AI, LLM
+<br>

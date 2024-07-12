@@ -42,10 +42,12 @@ Here are some ideas to get you started:
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/zestina?theme=dark&font=Recursive&ext=heatmap)
 
+<!--
 #### 🔎   Further Info (Resume & Portfolio)
 <a href="https://drive.google.com/drive/folders/1VoH377lySTNS5mSxhE--racmoqJEu9os?usp=drive_link">
   <img src="https://img.shields.io/badge/Google%20Drive-008000?style=flat-square&logo=GoogleDrive&logoColor=white"/>
 </a>
+-->
 
 #### 📫   How To Reach
 <a href="mailto:zestina.oh@gmail.com">

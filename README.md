@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <br>
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zestina)](https://solved.ac/zestina)
-<br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/zestina?theme=dark&font=Recursive&ext=heatmap)
 
 <!--
@@ -57,7 +55,19 @@ Here are some ideas to get you started:
 ---
 <div align="left">
 
-### 🎓   I'm Currently Learning At
+### 🎓   I'm Currently Working At
+ **```FADU```**
+<br>
+ - Validation Engineer (2024.07.15 ~)
+<img src="https://img.shields.io/badge/NVMe-393939?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCP-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/PCIe-2C3E50?style=flat-square&logoColor=white"/>
+
+
+---
+<div align="left">
+
+### 🎓   I've Studied At
  **```42Seoul```**
 <br>
  - Advanced Course Member (2023.10.25 ~)
@@ -69,32 +79,19 @@ Here are some ideas to get you started:
 ### 🔭   I've Worked On
 • **```Language```** : Python3, C/C++, Java, TypeScript
 <br>
-• **```Framework```** : Flask, NestJS
+• **```Framework```** : Flask, NestJS, Django, Fast API
 <br>
 • **```Database```** : PostgreSQL, MySQL, Redis, MongoDB
 <br>
 • **```Server```** : Nginx, Apache Tomcat, uWSGI, Gunicorn
 <br>
-• **```DevOps```** : Docker, Docker-compose
+• **```DevOps```** : Docker, Docker-compose, Kubernetes, AWS (EC2, S3, RDS)
 <br>
 • **```Tools```** : Git & Github, Visual Studio Code, Swagger, TypeORM
 <br>
-• **```Etc```** : TDD, REST API, Bash & Shell, Makefile, Socket, JWT, CSRF token
+• **```Etc```** : TDD, REST API, Bash & Shell, Makefile, Socket, JWT, CSRF token, CI/CD
 <br>
 
----
-
-### 🌱   I'm Working On
-• **```Framework```** : Django, Fast API
-<br>
-• **```Database```** : Cassandra, Hadoop
-<br>
-• **```DevOps```** : Kubernetes, AWS (EC2, S3, RDS), GCP
-<br>
-• **```Tools```** : SQLAlchemy
-<br>
-• **```Etc```** : CI/CD, MSA, GraphQL
-<br>
 
 ---
 
